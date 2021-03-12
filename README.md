@@ -1,2 +1,2 @@
 # my-projects
-My practice projects
+My practice projects.
